@@ -1,4 +1,16 @@
-### Hi there 👋
+### Howdy 👋
+#### I am Trevor Bolton
+-----------
+I am a graduate student at Texas A&M University furthering my studies in Computer Science. I will be graduating in May 2022. Currently looking for new opportunities.
+I have experience in software engineering, devops, cloud technologies, and game development.
+
+- 🔭 I’m currently working on [Campus Survey](https://github.com/brookenowak/campus-survey) and Turing Games
+- 🌱 I’m currently learning full stack architecture and game design
+- 💬 Ask me about what I am studying or any of my previous projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trevor-bolton-428158192/)
+- 🖥️ Visit my [portfolio site](https://trevorbolton.dev)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love [this one](https://github.com/brookenowak)
 
 <!--
 **TBolton2000/TBolton2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
